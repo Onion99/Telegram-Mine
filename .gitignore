@@ -83,3 +83,23 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
+
+.DS_Store
+
+.gradle
+.idea
+
+build
+.cxx
+.externalNativeBuild
+obj
+
+*.apk
+*.iml
+
+/builds
+
+/captures
+/local.properties
+
+libc++_shared.so
